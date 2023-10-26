@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": false,
   "scripts": {
-    "dev": "nodemon index.js",
-    "start": "node index.js",
+    "start2": "nodemon index.js",
+    "start": "nodemon index.js",
     "test": "nodemon test.js",
     "port": "nodemon ../src/services/instru.service.js",
     "chart": "nodemon ../src/public/javascripts/chart-pie-demo.js"
